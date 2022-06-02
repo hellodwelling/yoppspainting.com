@@ -2,3 +2,96 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
     xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
     xsi:schemaLocation="http://www.sitemaps.org/schemas/sitemap/0.9 http://www.sitemaps.org/schemas/sitemap/0.9/sitemap.xsd">
+
+    <url>
+        <loc>https://yoppspainting.com/index</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/store</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/reviews</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/gallery-All</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/gallery-Interior-Painting</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/gallery-Exterior-Painting</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/service-Interior-Painting</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/service-Exterior-Painting</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/service-Drywall-and-Plastering</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/service-Pressure-Washing</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/service-Kitchen-and-Cabinet-Refinishing</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/service-Home-Remodeling</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+    <url>
+        <loc>https://yoppspainting.com/service-Other-Painting-Services</loc>
+        <lastmod>2022-06-02</lastmod>
+        <changefreq>weekly</changefreq>
+        <priority>1.0</priority>
+    </url>
+
+</urlset>
